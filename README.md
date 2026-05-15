@@ -1,2 +1,7 @@
-# demo-silvia-alvarez-propiedades-martillera-co
-Demo web para Silvia Álvarez Propiedades. MARTILLERA, CORREDORA INMOBILIARIA. — diseñada por eterlab.
+# Silvia Álvarez Propiedades. MARTILLERA, CORREDORA INMOBILIARIA.
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
